@@ -72,5 +72,3 @@
   <a href="https://www.linkedin.com/in/amna-sheikh-a5905130b" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="36" height="21" alt="LinkedIn"/></a>
   <a href="mailto:your-email@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="36" height="21" alt="Email"/></a>
 </div>
-
-
