@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">⚡ BSIT Student | UI/UX Designer | React Native & Frontend Developer.</p>
+<p align="left">⚡ BSIT Student | UI/UX Designer | Mobile & Frontend Developer.</p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I specialize in combining intuitive UI/UX design with clean frontend development, creating seamless mobile and web applications that focus entirely on user experience. Using the React Native and Expo ecosystems alongside Android Studio, I transform wireframes and visual design concepts into high-performance, responsive cross-platform interfaces. My work focuses on building fully optimized layouts, ensuring smooth animations, clean typography, and exceptional usability at every step.</p>
+<p align="left">I specialize in combining intuitive UI/UX design with clean frontend development, creating seamless mobile and web applications that focus entirely on user experience. Leveraging cross-platform frameworks like React Native and Flutter alongside Android Studio, I transform wireframes and visual design concepts into high-performance, responsive interfaces. My work focuses on building fully optimized layouts, ensuring smooth animations, clean typography, and exceptional usability at every step.</p>
 
 ###
 
@@ -30,6 +30,8 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="33" alt="react logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="33" alt="flutter logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="33" alt="tailwindcss logo"  />
   <img width="15" />
@@ -70,3 +72,5 @@
   <a href="https://www.linkedin.com/in/amna-sheikh-a5905130b" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="36" height="21" alt="LinkedIn"/></a>
   <a href="mailto:your-email@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="36" height="21" alt="Email"/></a>
 </div>
+
+
